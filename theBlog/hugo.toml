@@ -1,0 +1,4 @@
+baseURL = 'https://iamaniekan.github.io/'
+languageCode = 'en-us'
+title = 'Aniekan Akpan'
+theme='hugo-digital-garden-theme'
